@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaProjectCodeInsightSettings">
+    <excluded-names>
+      <name>android.app.LauncherActivity.ListItem</name>
+      <name>android.graphics.drawable.Icon</name>
+      <name>android.graphics.fonts.FontFamily</name>
+      <name>android.inputmethodservice.Keyboard.Row</name>
+      <name>android.text.layout.Alignment</name>
+      <name>android.view.RoundedCorner</name>
+      <name>android.view.Surface</name>
+      <name>android.widget.GridLayout.Alignment</name>
+      <name>java.lang.reflect.Modifier</name>
+      <name>java.nio.file.WatchEvent.Modifier</name>
+      <name>java.time.format.TextStyle</name>
+      <name>org.w3c.dom.Text</name>
+      <name>androidx.compose.material.*Bar*</name>
+      <name>androidx.compose.material.*Button*</name>
+      <name>androidx.compose.material.*TextField*</name>
+      <name>androidx.compose.material.*Card*</name>
+      <name>androidx.compose.material.AlertDialog</name>
+      <name>androidx.compose.material.ContentAlpha</name>
+      <name>androidx.compose.material.Divider</name>
+      <name>androidx.compose.material.Icon</name>
+      <name>androidx.compose.material.Local*</name>
+      <name>androidx.compose.material.MaterialTheme</name>
+      <name>androidx.compose.material.Scaffold</name>
+      <name>androidx.compose.material.Surface</name>
+      <name>androidx.compose.material.contentColorFor*</name>
+    </excluded-names>
+  </component>
+</project>
